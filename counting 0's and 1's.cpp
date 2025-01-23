@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-	int arr[]={1,1,1,0,0,0,0,1,0,1,0,1,0,1,0};0.0..021 
+	int arr[]={1,1,1,0,0,0,0,1,0,1,0,1,0,1,0};
 	int size=15;
 	int numzero=0;
 	int numone=0;
